@@ -7,4 +7,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer96&layout=compact&theme=dracula">
 <img src="https://github-readme-stats.vercel.app/api?username=programmer96&show_icons=true&theme=dracula">
-<img src="https://komarev.com/ghpvc/?username=programmer96">
+<img src="https://komarev.com/ghpvc/?username=programmer96&color=brightgreen">
